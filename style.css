@@ -1,5 +1,5 @@
 body {
-    background-color: 	#808000;
+    background-color: 	#b43131;
     color: white;
     font-family: "Baskervville SC", serif;
     display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 button{
-    background-color: #a712a7;
+    background-color: #ce8312;
     color: white;
     font-family: "Baskervville SC", serif;
 }
